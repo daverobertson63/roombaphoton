@@ -203,7 +203,7 @@ void loop()
                     cmdRoomba(START_OI);
                     cmdRoomba(START_OI);
 
-                    cmdRoomba(CLEAN);
+                    //cmdRoomba(CLEAN);
 
                     // Perform a reset - but dont execute the command until we have passwed X time
 
@@ -240,7 +240,7 @@ void loop()
 
                     cmdRoomba(START_OI);
                     cmdRoomba(START_OI);
-                    cmdRoomba(SEEK_DOCK);
+                    //cmdRoomba(SEEK_DOCK);
 
                     // Perform a reset - but dont execute the command until we have passwed X time
                     //cmdRoomba(7);
